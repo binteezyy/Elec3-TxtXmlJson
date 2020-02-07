@@ -1,0 +1,14 @@
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Elec3-InputOutput.exe.config
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Elec3-InputOutput.exe
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Elec3-InputOutput.pdb
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Elec3-InputOutput.xml
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.vbprojAssemblyReference.cache
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3_InputOutput.Form1.resources
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3_InputOutput.Resources.resources
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.vbproj.GenerateResource.cache
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.exe
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.xml
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.pdb
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Newtonsoft.Json.dll
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\bin\Debug\Newtonsoft.Json.xml
+D:\projects\vb\Elec3-InputOutput\Elec3-InputOutput\obj\Debug\Elec3-InputOutput.vbproj.CopyComplete
